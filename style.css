@@ -1,6 +1,6 @@
 body{
-  margin: 0;
+  margin: 1;
   font-family: arial, sans-serif;
-  line-height: 0;
-  color: aqua
+  line-height: 1.5;
+  color: green
 }
