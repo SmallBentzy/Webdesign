@@ -4,6 +4,9 @@ body{
   line-height: 1.5;
   color: green
 }
+p{
+      color: black
+}
 img {
   max-width: 30%;
   width: auto;
