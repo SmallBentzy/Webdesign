@@ -1,16 +1,36 @@
-body{
-  margin: 0;
-  font-family: arial, sans-serif;
-  line-height: 1.5;
-  color: green;
-  font-family: 'Rubik', sans-serif;
+body {
+    margin: 0;
+    font-family: arial, sans-serif;
+    line-height: 1.5;
+    color: green;
+    font-family: 'Rubik', sans-serif;
+    padding: 0px;
 
 }
-p{
-      color: black
+
+p {
+    color: black
 }
+
 img {
-  max-width: 30%;
-  width: auto;
-  height: auto;
+    max-width: 100%;
+    width: auto;
+    height: auto;
+}
+
+.container {
+/*
+    display: table;
+*/
+
+    max-width: 800px;
+    margin: auto;
+}
+
+.about {
+  background: url() center;
+  background-size: cover;
+  color: #fff;
+  padding: 80px;
+  text-align: center;
 }
