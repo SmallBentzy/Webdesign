@@ -9,6 +9,7 @@ body {
 }
 
 p {
+    text-align: right;
     color: black
 }
 
@@ -22,15 +23,24 @@ img {
 /*
     display: table;
 */
-
-    max-width: 800px;
+    background: #f6faff;
+    max-width: 900px;
     margin: auto;
 }
 
+.logo {
+  font-size: 24px;
+  margin: auto;
+  display: table;
+}
+.logo img {
+  display: block;
+  margin: auto;
+}
 .about {
+    
   background: url() center;
   background-size: cover;
-  color: #fff;
-  padding: 80px;
+  color: #0d1005;
   text-align: center;
 }
